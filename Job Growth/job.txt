@@ -1,0 +1,18 @@
+Computer Developers
+857000
+1281000
+Internet Security
+862000
+1016000
+Systems Analysts
+504000
+650000
+Database Administrators
+119000
+154000
+Network Administrators
+262000
+402000
+Web Developers
+285000
+407000

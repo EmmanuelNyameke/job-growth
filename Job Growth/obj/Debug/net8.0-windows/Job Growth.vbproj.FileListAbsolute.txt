@@ -1,0 +1,18 @@
+C:\Users\HELLO\Source\Repos\Job Growth\bin\Debug\net8.0-windows\Job Growth.exe
+C:\Users\HELLO\Source\Repos\Job Growth\bin\Debug\net8.0-windows\Job Growth.deps.json
+C:\Users\HELLO\Source\Repos\Job Growth\bin\Debug\net8.0-windows\Job Growth.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\Job Growth\bin\Debug\net8.0-windows\Job Growth.dll
+C:\Users\HELLO\Source\Repos\Job Growth\bin\Debug\net8.0-windows\Job Growth.pdb
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job_Growth.frmGrowth.resources
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job_Growth.frmJob.resources
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job_Growth.Resources.resources
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.dll
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\refint\Job Growth.dll
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.pdb
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\Job Growth.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\Job Growth\obj\Debug\net8.0-windows\ref\Job Growth.dll
